@@ -4,10 +4,11 @@ end
 
 def create_an_array
   array=["happy","sad","hungry","full"]
-
 end
 
 def add_element_to_end_of_array(array, element)
+  array=["happy","sad","hungry","full"]
+  array.push("farts")
 
 end
 
